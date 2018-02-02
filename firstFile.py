@@ -1,2 +1,3 @@
 print("hello")
-print("\nworld")
+
+print("f")
